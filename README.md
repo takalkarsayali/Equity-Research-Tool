@@ -13,6 +13,9 @@ This tool enables users to input company URLs or documents and ask intelligent f
 
 ## 📝Overview
 ![img](https://github.com/user-attachments/assets/fd770f98-0596-4325-829c-a367b21b5f53)
+![img2](https://github.com/user-attachments/assets/15e32bec-604b-4c9a-855f-cbb750f63b59)
+![img3](https://github.com/user-attachments/assets/21487a91-b5e3-4194-8ca5-609cafdc0b67)
+![img4](https://github.com/user-attachments/assets/c21e1f18-3dee-4c8a-9576-3d57fce12cb3)
 
 ## 🚀 Features
 
